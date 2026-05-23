@@ -1,3 +1,5 @@
+skills：技能，按需加载；rules：规则，用于约束agent，告诉agent一定要做xxx，一定不能做xxx，每次对话都会读取
+
 ### <font style="color:rgb(25, 27, 31);">缺乏架构思维的 Vibe Coding 是在加速产生垃圾代码</font>
 <font style="color:rgb(25, 27, 31);">有开发者分享过真实案例：3 小时用 Vibe Coding 构建了一个原型，体验非常流畅。但回过头看代码时，代码一团糟，最终花了 5 个小时重构。</font>
 
